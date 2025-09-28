@@ -6,7 +6,12 @@
     - Next.js
     - MUI
     - tailwind
+    - zod
     - Typescript
     - MariaDB
-    - SQL 
+    - cassandraBD
+    - RedisDB
+    - cockroachDB
+    - SQL
+    - PostgreSQL
 - If you like to work with me or are intrested in my works you can reach me via e-mail or Discord: mickihde9@gmail.com  / .dermixer
