@@ -1,17 +1,44 @@
-- 👋 Hi, I’m DerMixer || Mick Ihde
-- 👀 I’m interested in programming and general technolagies of our daily lifes, physiks, anatomie, going to the Gym and cars of all kind.
-- 🌱 I’m currently learning Fullstack - Webdevelopment in general, but currently with React (Next.js)
-- I currently have worked with following technologies:
--   - React native
-    - Next.js
-    - MUI
-    - tailwind
-    - zod
-    - Typescript
-    - MariaDB
-    - cassandraBD
-    - RedisDB
-    - cockroachDB
-    - SQL
-    - PostgreSQL
-- If you like to work with me or are intrested in my works you can reach me via e-mail or Discord: mickihde9@gmail.com  / .dermixer
+# 👋 Hi, I’m Mick Ihde (DerMixer)
+
+I am passionate about **software development**, **modern technologies**, and how they shape our everyday lives. Outside of coding, I enjoy learning about **anatomy**, spending time at the **gym**, and exploring **cars of all kinds**.
+
+---
+
+## 🚀 What I’m Working On
+
+I am currently focusing on **Full-Stack Web Development**, with a primary emphasis on:
+
+* **React**
+* **Next.js**
+* Modern frontend ecosystems
+
+---
+
+## 🧠 Technologies I’ve Worked With
+
+### Frontend & UI
+
+* React Native
+* Next.js
+* Material UI (MUI)
+* Tailwind CSS
+* TypeScript
+* Zod
+
+### Databases & Backend
+
+* MariaDB
+* PostgreSQL
+* SQL
+* CockroachDB
+* CassandraDB
+* Redis
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re interested in my work or would like to collaborate, feel free to reach out:
+
+* 📧 Email: **[mickihde9@gmail.com](mailto:mickihde9@gmail.com)**
+* 💬 Discord: **.dermixer**
