@@ -14,7 +14,7 @@ I am currently focusing on **Full-Stack Web Development**, with a primary emphas
 
 ---
 
-## 🧠 Technologies I’ve Worked With
+## 🧠 Technologies I’ve Worked With For The Past 3 Years
 
 ### Frontend & UI
 
