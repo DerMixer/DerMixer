@@ -1,44 +1,53 @@
-# 👋 Hi, I’m Mick Ihde (DerMixer)
+# Hey, I'm Mick Ihde (DerMixer) 👋
 
-I am passionate about **software development**, **modern technologies**, and how they shape our everyday lives. Outside of coding, I enjoy learning about **anatomy**, spending time at the **gym**, and exploring **cars of all kinds**.
+Freelancer aus Deutschland — I build **fast, sharp, and distinctive digital products** from first idea to go-live. No template look, no cookie-cutter solutions — just clean code and interfaces that build trust and drive results.
 
----
-
-## 🚀 What I’m Working On
-
-I am currently focusing on **Full-Stack Web Development**, with a primary emphasis on:
-
-* **React**
-* **Next.js**
-* Modern frontend ecosystems
+→ **[mickihde.de](https://www.mickihde.de)**
 
 ---
 
-## 🧠 Technologies I’ve Worked With For The Past 3 Years
+## 🛠 What I Do
 
-### Frontend & UI
+Full-Stack Web Development with a focus on performance, clarity, and conversion. I take care of the whole stack — design, development, deployment — so you can focus on your business.
 
-* React Native
-* Next.js
-* Material UI (MUI)
-* Tailwind CSS
-* TypeScript
-* Zod
-
-### Databases & Backend
-
-* MariaDB
-* PostgreSQL
-* SQL
-* CockroachDB
-* CassandraDB
-* Redis
+- **Websites & Landing Pages** — fast, opinionated, built to convert
+- **Web Apps & Dashboards** — full-stack, type-safe, production-ready
+- **Digital Products** — from concept to live, end-to-end
 
 ---
 
-## 🤝 Let’s Connect
+## ⚡ Tech Stack
 
-If you’re interested in my work or would like to collaborate, feel free to reach out:
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-* 📧 Email: **[mickihde9@gmail.com](mailto:mickihde9@gmail.com)**
-* 💬 Discord: **.dermixer**
+### Backend & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat&logo=cockroachdb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
+
+### Tools & Infra
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+
+---
+
+## 🤝 Let's Work Together
+
+Available for freelance projects. Reach out and let's build something worth looking at.
+
+- 🌐 **Portfolio:** [mickihde.de](https://www.mickihde.de)
+- 📧 **Email:** [mickihde.business@gmail.com](mailto:mickihde.business@gmail.com)
+- 💬 **Discord:** `.dermixer`
+
+---
+
+*Passionate about software, modern tech, anatomy, the gym, and anything with an engine.*
