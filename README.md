@@ -8,10 +8,9 @@ Freelancer aus Deutschland — I build **fast, sharp, and distinctive digital pr
 
 ## 🛠 What I Do
 
-Full-Stack Web Development with a focus on performance, clarity, and conversion. I take care of the whole stack — design, development, deployment — so you can focus on your business.
+Frontend Web Development with a focus on performance, clarity, and conversion. I take care of the whole stack — design, development, deployment — so you can focus on your business.
 
 - **Websites & Landing Pages** — fast, opinionated, built to convert
-- **Web Apps & Dashboards** — full-stack, type-safe, production-ready
 - **Digital Products** — from concept to live, end-to-end
 
 ---
@@ -27,7 +26,7 @@ Full-Stack Web Development with a focus on performance, clarity, and conversion.
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Backend & Databases
+### Worked With On the Frontend (Querys, Server Actions etc.)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -50,4 +49,4 @@ Available for freelance projects. Reach out and let's build something worth look
 
 ---
 
-*Passionate about software, modern tech, anatomy, the gym, and anything with an engine.*
+*Passionate about software, modern tech, anatomy and the gym
